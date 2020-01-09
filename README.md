@@ -24,13 +24,17 @@ Here is the link to the dataset used for this project - https://www.kaggle.com/s
 
 ![alt text](https://github.com/snithin13/Meetup-Recommendation-System/blob/master/Images/cat_trend.png)
 
-**2. Popular groups in New York (by # of memebers)**
+* Inference: Career/Business, Tech, and Socialization are the three most popular and fast growing categories based on the 3 cities data.
+
+* Suggestion: Incentivize growth of better quality groups in these categories by targeting user bases like interested University students or people working in the relevant industry.
+
+**2. Popular groups in New York and in San Francisco (by # of memebers)**
 
 ![alt text](https://github.com/snithin13/Meetup-Recommendation-System/blob/master/Images/NK_group_rank.png)
 
-**3. Popular groups in San Francisco (by # of memebers)**
-
 ![alt text](https://github.com/snithin13/Meetup-Recommendation-System/blob/master/Images/SF_group_rank.png)
+
+* Suggestion: Now that we have identified the popular groups in New York and San Francisco from the above analysis, we need to attract top relevant company sponsorship into popular groups in exchange for better talent hunting opportunities and crowd connect. This can be monetized by meetup.com as a percentage of the sponsorship from the group.
 
 ##  Recommendation System:
 
