@@ -18,6 +18,15 @@ Here is the link to the dataset used for this project - https://www.kaggle.com/s
 * 2600 topics, 2500 topics
 * 78,000 venues, 5800 events
 
+## Tools and Technologies:
+* Tableau
+* SQL
+* PySpark on Databricks
+
+## Algorithms:
+* Matrix Factorization using ALS
+* KNN
+
 ## Analysis:
 
 **1. Top growing categories (by # of groups)**
