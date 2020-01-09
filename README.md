@@ -1,6 +1,6 @@
 # Meetup Recommendation System
 
-To developed a business case for [meetup.com](https://www.meetup.com/) platform by gaining insights through data analysis and built a recommendation engine using ALS Matrix factorization algorithm to provide improved meetup group recommendations for its users.
+To develop a business case for [meetup.com](https://www.meetup.com/) platform by gaining insights through data analysis and build a recommendation engine using ALS Matrix factorization algorithm to provide improved meetup group recommendations for its users.
 
 Here is the link to the dataset used for this project - https://www.kaggle.com/sirpunch/meetups-data-from-meetupcom
 
