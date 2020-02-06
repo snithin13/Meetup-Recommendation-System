@@ -65,7 +65,7 @@ factors = 20, regularization = .01, iterations = 20
 iv) Calls the recommend function after checking the city of that the user inputed and display the top 10 recommendations.The results are shown below:
 
 Existing Groups
-![alt text](https://github.com/snithin13/Meetup-Recommendation-System/blob/master/Images/recomm%20grps.png)
+![alt text](https://github.com/snithin13/Meetup-Recommendation-System/blob/master/Images/existing%20grps.png)
 
 Recommended Groups
 ![alt text](https://github.com/snithin13/Meetup-Recommendation-System/blob/master/Images/recomm%20grps.png)
